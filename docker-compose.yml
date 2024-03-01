@@ -1,0 +1,5 @@
+services:
+  fact_api:
+    image: ajabiro/devops
+    ports:
+      - 8000:80
